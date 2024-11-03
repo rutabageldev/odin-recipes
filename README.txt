@@ -1,0 +1,1 @@
+Basic website created as part of the Odin Project html course intended to demonstrate html basics.
